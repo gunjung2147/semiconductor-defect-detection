@@ -1,9 +1,4 @@
 # semiconductor-defect-detection
-This project aims to detect defects in semiconductor manufacturing using computer vision and image processing techniques.
-
-Ah, I see! If you'd like to avoid the formatting symbols (like `#` and `*`), here's the plain text version without those markup elements:
-
----
 
 **Project Outline and Scope**  
 The goal is to develop a machine learning model (preferably using CNNs) that can detect defects on semiconductor wafers or chips based on images. This system would help automate the defect inspection process, reducing human error and increasing manufacturing efficiency.
