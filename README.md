@@ -136,7 +136,3 @@ Week 2-3: Build, train, and evaluate the CNN model.
 Week 4: Fine-tuning and optimization.  
 Week 5: Test on unseen data and prepare documentation.  
 Week 6: Wrap up, package the model, and deploy it for demo purposes.
-
----
-
-You should now be able to copy this version into Google Docs without any formatting issues!
