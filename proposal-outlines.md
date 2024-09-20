@@ -1,4 +1,7 @@
 **전자공학종합설계/송병철 교수님 2조(이건중, 우진형) Project Proposal**
+
+https://docs.google.com/presentation/d/1Zg7paHUCgWlBjwn-IeIORfHrjQZVSX0EcocOfpUBTXY/edit?usp=sharing
+
 1.	주제 선정 배경 (2분)
 	•	주제 선정 이유: 반도체 제조 공정에서의 결함 검출은 제품 품질에 직결되는 중요한 문제임. 그러나 인간의 육안 검사에는 한계가 있어, 자동화된 결함 검출 시스템 도입이 필요함.
 	•	문제점: 기존의 결함 검출은 사람의 경험에 의존하며, 시간과 비용이 많이 소요됨. 따라서 머신러닝 기반의 자동화된 검사 시스템이 필요함.
