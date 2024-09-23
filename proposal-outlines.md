@@ -1,6 +1,26 @@
-**전자공학종합설계/송병철 교수님 2조(이건중, 우진형) Project Proposal**
+# 전자공학종합설계/송병철 교수님 2조(이건중, 우진형) Project Proposal
 
 https://docs.google.com/presentation/d/1Zg7paHUCgWlBjwn-IeIORfHrjQZVSX0EcocOfpUBTXY/edit?usp=sharing
+
+## Proposal 내용
+
+- 10~15분 분량
+
+- 선정 주제와 관련된 배경 (주제 선정 이유 또는 문제점)
+
+- 주제 설명
+
+- 예상되는 문제와 해결 방안 (e.g., 데이터셋 구축 방안, 기존 framework 혹은 application의 문제점과 해결 방안 등)
+
+- 최종 예상 산출물 (e.g., 데모 혹은 웹사이트)
+
+- 예상 기대 효과
+
+- 진행 계획 (주차별)
+
+- 구성원 별 역할 분담
+
+- 문의 gimeejae@gmail.com
 
 Here’s a detailed outline for your PPT slides based on your project:
 
