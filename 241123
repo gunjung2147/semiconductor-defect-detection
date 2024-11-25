@@ -3,6 +3,16 @@ capstone_1.ipynb: 데이터 증강 이전 학습 + 고전적 데이터 증강 �
 >> https://colab.research.google.com/drive/1mQrDalXycczc-9uVVIBkgJ8PqquuID6V?usp=sharing
 
 
-capstone_2.ipynb: SMOTE + Cutmix + Mixup 적용 예정
+capstone_SMOTE.ipynb
 
 >> https://colab.research.google.com/drive/1kS3TlCOlVO7B3FG6JV4-JdWyiZwHCJP5#scrollTo=bHidgHNf7z_W
+
+
+casptone_Cutmix.ipynb
+
+>> https://colab.research.google.com/drive/14CO_yr31f4KK9KiK13cauV6ZdB6gW-dh#scrollTo=60eod0hQJEDi
+
+
+capstone_Mixup.ipynb
+
+>> https://colab.research.google.com/drive/1lpynBJRns0h7nZuCmodVraAJ3aIWOaMy#scrollTo=G8T7XKApQv1y
